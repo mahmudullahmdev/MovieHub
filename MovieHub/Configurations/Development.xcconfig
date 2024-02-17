@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  MovieHub
+//
+//  Created by Mahmudullah on 18/2/24.
+//
+
+
+// In Real both the production and development configs will be different.
+HOST = https:/$()/api.themoviedb.org
+IMAGE_BASE_URL = https:/$()/image.tmdb.org/t/p/w500
+API_KEY = 38e61227f85671163c275f9bd95a8803
